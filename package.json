@@ -1,0 +1,19 @@
+{
+  "name": "test-automation",
+  "version": "1.0.0",
+  "description": "test cafe users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soledadrepository/testCafeAutomation.git"
+  },
+  "author": "Soledad Coronel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soledadrepository/testCafeAutomation/issues"
+  },
+  "homepage": "https://github.com/soledadrepository/testCafeAutomation#readme"
+}
